@@ -28,3 +28,5 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Install Active Directory</h2>
 
 To start things off, We're going to set our DC-1 VM as our Domain Controller and install Active Directory within it
+<img src= https://imgur.com/a/KiUcQmG>
+Click on Server Manager and this should be the window that appears
