@@ -18,3 +18,5 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
+
+Today I will instruct on how to install Active Directory into our Domain Controller VM Client
