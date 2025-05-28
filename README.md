@@ -17,6 +17,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+ <h2>Objectives </h2>
 
-Today I will instruct on how to install Active Directory into our Domain Controller VM Client
+- Install Active Directory
+- Create a Domain Admin user within the domain
+- Join Client-1 to your domain (mydomain.com)
+- Setup Remote Desktop for non-administrative users on Client-1
+- Create additional users and attempt to log into client-1 with one of the users
+
+<h2>Install Active Directory</h2>
+
