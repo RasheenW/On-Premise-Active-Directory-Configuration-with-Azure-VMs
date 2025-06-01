@@ -65,7 +65,7 @@ It'll automatically restart afterwards and once it does, We will relog into DC-1
 
 <h2> Domain Admin User Creation </h2>
 
-Now within Active Directory we will be creating an Orginazational Unit that we will call "_Employees", "_Admins" & "_Clients" within DC-1.
+Now within Active Directory we will be creating an Orginazational Unit that we will call "_Employees", "_Admins" & "_Clients" within DC-1 (These names are important, Within the next section we will be utilizing a script that uses _EMPLOYEES)
 The first step to navigate there, Click start, Open "Windows Administrative Tools" Folder & Click "Active Directory Users and Computers"
 
 <img src=https://i.imgur.com/Nr4ryFS.png>
